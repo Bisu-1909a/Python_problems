@@ -22,6 +22,7 @@ directions must be FLIPPED.
 Input Example 1:
 desc_list = [50, 40, 30, 20, 10]
 target    = 30
+
 Output Example 1:
 Found at index: 2
 
